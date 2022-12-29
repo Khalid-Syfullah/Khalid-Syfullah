@@ -6,7 +6,9 @@
  </p>
 
 <h1 align="center">Hi, I'm Khalid Syfullah<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Khalid+Syfullah%3C3"></a>
+</p>
 
 👨‍🎓 B.Sc. in Electrical & Computer Engineering from  **[Rajshahi University of Engineering & Technology](http://www.ruet.ac.bd)** 
 
