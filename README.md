@@ -56,12 +56,6 @@
 </p>
 
 
-## Profile View  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-
-![Profile views](https://gpvc.arturio.dev/Khalid-Syfullah)
-
-
-
 ### Languages and Tools : <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 
@@ -140,16 +134,11 @@
 <a href="https://www.hackerrank.com/khalid_1610038"><img src="https://img.shields.io/badge/-Khalid%20Syfullah-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
 
-
-
-----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Khalid-Syfullah/Khalid-Syfullah/main/resources/img/github-contribution-grid-snake.svg"
-    alt="Khalid-Syfullah" />
-</p>
-
-------
 Credit: [Khalid Syfullah](https://github.com/Khalid-Syfullah)
 
 Last Updated On: 13/06/2021
+
+----
+
+![Visitor count](https://gpvc.arturio.dev/Khalid-Syfullah)
+
