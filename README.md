@@ -134,6 +134,7 @@
 <a href="https://www.hackerrank.com/khalid_1610038"><img src="https://img.shields.io/badge/-Khalid%20Syfullah-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
 
+<p align="center">
 Credit: [Khalid Syfullah](https://github.com/Khalid-Syfullah)
 
 Last Updated On: 13/06/2021
@@ -141,4 +142,5 @@ Last Updated On: 13/06/2021
 ----
 
 ![Visitor count](https://gpvc.arturio.dev/Khalid-Syfullah)
+ </p>
 
