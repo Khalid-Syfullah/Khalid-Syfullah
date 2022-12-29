@@ -5,7 +5,8 @@
  
  </p>
 
-### Hey 👋, I'm **[Khalid Syfullah](https://www.linkedin.com/in/khalidsyfullah/)** 👨‍💻
+<h1 align="center">Hi, I'm Khalid Syfullah<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+
 
 👨‍🎓 B.Sc. in Electrical & Computer Engineering from  **[Rajshahi University of Engineering & Technology](http://www.ruet.ac.bd)** 
 
