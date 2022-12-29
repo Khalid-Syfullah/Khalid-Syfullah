@@ -1,9 +1,5 @@
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BKhalid-Syfullah%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Syfullah&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Khalid-Syfullah&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Khalid-Syfullah&theme=chartreuse-dark"></p>
-
 
 ### Hey 👋, I'm **[Khalid Syfullah](https://www.linkedin.com/in/khalidsyfullah/)** 👨‍💻
 
@@ -35,6 +31,12 @@
 
 ## Contribution Graph
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Khalid-Syfullah&theme=github" alt="Khalid-Syfullah" /></p> 
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Syfullah&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Khalid-Syfullah&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Khalid-Syfullah&theme=chartreuse-dark"></p>
+
+
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Syfullah&layout=default)](https://github.com/Khalid-Syfullah/github-readme-stats)
