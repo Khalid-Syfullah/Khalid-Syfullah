@@ -33,6 +33,24 @@
 - :e-mail: Ask me about anything ; **khalidsyfullah@gmail.com**
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const khalid = {
+  pronouns: "he" | "him",
+  code: [Java, XML, Javascript, Python, C++],
+  tools: [Android, Xcode, React, Redux, Node, Docker],
+  architecture: ["mvvm", "android-sdk", "tensorflow-lite"],
+  education: {
+                        university: "Rajshahi University of Engineering & Technology (RUET)",
+                        major: "Electrical & Computer Engineering (ECE)",
+                        academic-session: "2016-17"
+                      },
+ challenge: "I am focused on mobile app development and deep learning"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ##Trophies <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
@@ -63,6 +81,8 @@
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khalid-syfullah&theme=gruvbox">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khalid-syfullah&theme=gruvbox">
  </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 ### Languages and Tools : <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
@@ -130,6 +150,8 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 ### :link: &nbsp;Connect with me <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 
@@ -151,3 +173,4 @@ Last Updated On: 13/06/2021
 
 ![Profile views](https://gpvc.arturio.dev/Khalid-Syfullah)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
