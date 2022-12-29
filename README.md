@@ -1,9 +1,9 @@
 
-### Hey 👋, I'm **[Faisal Ahmed Bijoy](https://www.linkedin.com/in/faisal-ahmed-2a71581b1/)** 👨‍💻
+### Hey 👋, I'm **[Khalid Syfullah](https://www.linkedin.com/in/khalidsyfullah/)** 👨‍💻
 
 
 
-👨‍🎓 B.Sc. in Computer Science and Engineering from  **[Khulna University of Engineering & Technology](http://www.kuet.ac.bd)** 
+👨‍🎓 B.Sc. in Electrical & Computer Engineering from  **[Rajshahi University of Engineering & Technology](http://www.ruet.ac.bd)** 
 
 [![Twitter Badge](https://img.shields.io/badge/-@FaisalAhmed-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/FaisalA84820502)](https://twitter.com/FaisalA84820502)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-FaisalAhmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisal-ahmed-2a71581b1/)](https://www.linkedin.com/in/faisal-ahmed-2a71581b1/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![Hackerrank Badge](https://img.shields.io/badge/-@FABKUET-03a57a?style=flat-square&labelColor=000000&logo=hackerrank&link=https://www.hackerrank.com/FABKUET/)](https://www.hackerrank.com/FABKUET)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Gmail Badge](https://img.shields.io/badge/-faisal.cse16.kuet@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faisal.cse16.kuet@gmail.com)](mailto:faisal.cse16.kuet@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![Portfolio Badge](https://img.shields.io/badge/-faisalahmedbijoy.github.io-orange?style=flat-square&logo=html5&logoColor=white&link=https://faisalahmedbijoy.github.io)](https://faisalahmedbijoy.github.io)
 
@@ -11,13 +11,13 @@
 
 - Associate AI Enginner | Next Solution Lab | Dhaka, Bagladesh
 - :dart: Research Interest | Artificial Intelligence | Machine learning | Deep learning | Image Processing and Computer vision | Natural Language Processing    
-- :e-mail: Ask me about anything ; **faisal.cse16.kuet@gmail.com**
+- :e-mail: Ask me about anything ; **khalidsyfullah@gmail.com**
 
 
 
 
 ## My Stats
-[![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaisalAhmedBijoy&theme=merko)](https://github.com/FaisalAhmedBijoy/github-readme-stats&?theme=dark)
+[![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaisalAhmedBijoy&theme=merko)](https://github.com/FaisalAhmedBijoy/github-readme-stats&?theme=dark)
 
 ## Streak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalAhmedBijoy&theme=merko" alt="FaisalAhmedBijoy"  /> 
