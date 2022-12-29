@@ -53,8 +53,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Syfullah&layout=compact&hide=TSQL&theme=chartreuse-dark">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khalid-Syfullah&theme=chartreuse-dark&layout=compact&hide_border=true" alt="Top Langs by repo" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khalid-syfullah&theme=chartreuse-dark&layout=compact&hide_border=true" alt="Top Langs by commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khalid-Syfullah&theme=chartreuse-dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khalid-syfullah&theme=chartreuse-dark">
 </p>
 
 
