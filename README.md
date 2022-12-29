@@ -1,5 +1,9 @@
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BKhalid-Syfullah%7D/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7BKhalid-Syfullah%7D/count.svg" alt="visitor badge"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+ 
+ </p>
 
 ### Hey 👋, I'm **[Khalid Syfullah](https://www.linkedin.com/in/khalidsyfullah/)** 👨‍💻
 
@@ -15,6 +19,10 @@
 <a href="https://www.hackerrank.com/khalid_1610038"><img src="https://img.shields.io/badge/-Khalid%20Syfullah-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
   
 </p>
+
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 ### About me :eyes:
 
 - Software Developer | Qubitech Solutions | Rajshahi, Bagladesh
