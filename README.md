@@ -2,8 +2,8 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7BKhalid-Syfullah%7D/count.svg" alt="visitor badge"/>
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
- <img width="25%" height="25%" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif"><br><br>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <img width="25%" height="25%" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif">
 
  </p>
 
