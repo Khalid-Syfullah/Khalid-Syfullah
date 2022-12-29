@@ -138,7 +138,16 @@
 <a href="https://www.hackerrank.com/khalid_1610038"><img src="https://img.shields.io/badge/-Khalid%20Syfullah-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
 
----
+
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Khalid-Syfullah/Khalid-Syfullah/main/resources/img/github-contribution-grid-snake.svg"
+    alt="Khalid-Syfullah" />
+</p>
+
+------
 Credit: [Khalid Syfullah](https://github.com/Khalid-Syfullah)
 
 Last Updated On: 13/06/2021
