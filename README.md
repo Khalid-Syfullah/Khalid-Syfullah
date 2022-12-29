@@ -22,8 +22,8 @@
 
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-### About me :eyes:
+### About me :## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+
 
 - Software Developer | Qubitech Solutions | Rajshahi, Bagladesh
 - :dart: Research Interest | Software Development | Mobile App Development | Deep learning | Image Processing | IoT
@@ -33,29 +33,34 @@
 
 
 
-## My Stats
+## My Stats ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Khalid-Syfullah&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400">
   </p>
 
-## Streak Stats
+## Streak Stats ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Khalid-Syfullah&theme=chartreuse-dark">
  </p>
 
-## Language
+## Language ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Syfullah&layout=compact&hide=TSQL&theme=chartreuse-dark">
 </p>
 
 
-## Profile View
+## Profile View ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+
 ![Profile views](https://gpvc.arturio.dev/Khalid-Syfullah)
 
 
 
-### Languages and Tools :computer:
+### Languages and Tools :## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+
 
 [![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android&link=https://github.com/Khalid-Syfullah)](https://github.com/Khalid-Syfullah) 
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase&link=https://github.com/Khalid-Syfullah)](https://github.com/Khalid-Syfullah) 
@@ -82,7 +87,8 @@
 
 
 
-### 🛠 &nbsp;Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+ &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -118,7 +124,8 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
 
-### :link: &nbsp;Connect with me
+### :link: &nbsp;Connect with me <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+
 
 <p align="center">
 <a href="https://khalidsyfullah.com"><img src="https://img.shields.io/badge/-khalidsyfullah-003399?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
