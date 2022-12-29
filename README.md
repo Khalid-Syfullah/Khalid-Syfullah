@@ -6,7 +6,7 @@
 👨‍🎓 B.Sc. in Electrical & Computer Engineering from  **[Rajshahi University of Engineering & Technology](http://www.ruet.ac.bd)** 
 
 <p align="center">
-<a href="https://khalidsyfullah.com"><img src="https://img.shields.io/badge/-khalidsyfullah.com?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://khalidsyfullah.com"><img src="https://img.shields.io/badge/-khalidsyfullah-0077B5?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/Khalid-Syfullah"><img src="https://img.shields.io/badge/-Khalid%20Syfullah-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:khalidsyfullah@gmail.com"><img src="https://img.shields.io/badge/-khalidsyfullah@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://facebook.com/khalidfromplanetearth"><img src="https://img.shields.io/badge/-Khalid%20Syfullah-E4405F?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
@@ -111,11 +111,11 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://khalidsyfullah.com"><img src="https://img.shields.io/badge/-khalidsyfullah.com?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://khalidsyfullah.com"><img src="https://img.shields.io/badge/-khalidsyfullah.com-0077B5?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/Khalid-Syfullah"><img src="https://img.shields.io/badge/-Khalid%20Syfullah-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:khalidsyfullah@gmail.com"><img src="https://img.shields.io/badge/-khalidsyfullah@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://facebook.com/khalidfromplanetearth"><img src="https://img.shields.io/badge/-Khalid%20Syfullah-E4405F?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.leetcode.com/khalid_syfullah"><img src="https://img.shields.io/badge/-khalid-syfullah-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
+<a href="https://www.leetcode.com/khalid_syfullah"><img src="https://img.shields.io/badge/-Khalid%20Syfullah-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
 <a href="https://twitter.com/khalid_syfullah"><img src="https://img.shields.io/badge/-khalid_syfullah-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
