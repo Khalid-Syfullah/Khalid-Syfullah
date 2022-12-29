@@ -7,11 +7,11 @@
 
  </p>
 
-<p align="center">Hi, I'm Khalid Syfullah<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></p>
+<h2 align="center">Hi, I'm Khalid Syfullah<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h2>
 <p align="center">
   <a href="https://github.com/Khalid-Syfullah"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+GitHub+Profile;I+am+Khalid!"></a>
-👨‍🎓 B.Sc. in Electrical & Computer Engineering from  **[Rajshahi University of Engineering & Technology](http://www.ruet.ac.bd)** 
  </p>
+👨‍🎓 B.Sc. in Electrical & Computer Engineering from  **[Rajshahi University of Engineering & Technology](http://www.ruet.ac.bd)** 
 
 <p align="center">
 <a href="https://khalidsyfullah.com"><img src="https://img.shields.io/badge/-khalidsyfullah-003399?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
