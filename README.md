@@ -12,8 +12,6 @@
   <a href="https://github.com/Khalid-Syfullah"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+GitHub+Profile;I+am+Khalid!"></a>
  </p>
  
-👨‍🎓 B.Sc. in Electrical & Computer Engineering from  [Rajshahi University of Engineering & Technology](http://www.ruet.ac.bd)
-
 <p align="center">
 <a href="https://khalidsyfullah.com"><img src="https://img.shields.io/badge/-khalidsyfullah-003399?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
  <a href="https://facebook.com/khalidfromplanetearth"><img src="https://img.shields.io/badge/-Khalid%20Syfullah-E4405F?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
@@ -27,9 +25,11 @@
 
 ### About me : <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
-- Software Developer | Qubitech Solutions | Rajshahi, Bagladesh
+- 💻 Software Developer | Qubitech Solutions | Rajshahi, Bagladesh
 - :dart: Research Interest | Software Development | Mobile App Development | Deep learning | Image Processing | IoT
 - :e-mail: Ask me about anything ; **khalidsyfullah@gmail.com**
+- 👨‍🎓 B.Sc. in Electrical & Computer Engineering from  [Rajshahi University of Engineering & Technology](http://www.ruet.ac.bd)
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
