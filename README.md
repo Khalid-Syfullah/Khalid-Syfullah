@@ -1,25 +1,34 @@
-
-### Hey 👋, I'm **[Khalid Syfullah](https://www.linkedin.com/in/khalidsyfullah/)** 👨‍💻
-
-
-
-👨‍🎓 B.Sc. in Electrical & Computer Engineering from  **[Rajshahi University of Engineering & Technology](http://www.ruet.ac.bd)** 
-
-[![Twitter Badge](https://img.shields.io/badge/-@khalid-syfullah-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&link=https://twitter.com/khalid_syfullah)](https://twitter.com/khalid-syfullah)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Khalid%20Syfullah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khalid-syfullah/)](https://www.linkedin.com/in/khalid-syfullah/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![Hackerrank Badge](https://img.shields.io/badge/-@Khalid_1610038-03a57a?style=flat-square&labelColor=000000&logo=hackerrank&link=https://www.hackerrank.com/khalid_1610038/)](https://www.hackerrank.com/khalid_1610038)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Gmail Badge](https://img.shields.io/badge/-khalidsyful@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khalidsyfullah@gmail.com)](mailto:khalidsyfullah@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![Portfolio Badge](https://img.shields.io/badge/-khalid-syfullah.github.io-orange?style=flat-square&logo=html5&logoColor=white&link=https://faisalahmedbijoy.github.io)](https://khalid-syfullah.github.io)
-
-### About me :eyes:
-
-- Software Developer | Qubitech Solutions | Rajshahi, Bagladesh
-- :dart: Research Interest | Software Development | Mobile App Development | Deep learning | Image Processing and Computer vision | IoT
-- :e-mail: Ask me about anything ; **khalidsyfullah@gmail.com**
-
-
-
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BKhalid-Syfullah%7D/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Syfullah&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Khalid-Syfullah&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Khalid-Syfullah&theme=chartreuse-dark"></p>
+
+
+### Hey 👋, I'm **[Khalid Syfullah](https://www.linkedin.com/in/khalidsyfullah/)** 👨‍💻
+
+👨‍🎓 B.Sc. in Electrical & Computer Engineering from  **[Rajshahi University of Engineering & Technology](http://www.ruet.ac.bd)** 
+
+</p>
+
+<p align="center">
+[![Twitter Badge](https://img.shields.io/badge/-@khalid-syfullah-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&link=https://twitter.com/khalid_syfullah)](https://twitter.com/khalid-syfullah)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Khalid%20Syfullah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khalid-syfullah/)](https://www.linkedin.com/in/khalid-syfullah/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![Hackerrank Badge](https://img.shields.io/badge/-@Khalid_1610038-03a57a?style=flat-square&labelColor=000000&logo=hackerrank&link=https://www.hackerrank.com/khalid_1610038/)](https://www.hackerrank.com/khalid_1610038)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Gmail Badge](https://img.shields.io/badge/-khalidsyful@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khalidsyfullah@gmail.com)](mailto:khalidsyfullah@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![Portfolio Badge](https://img.shields.io/badge/-khalid-syfullah.github.io-orange?style=flat-square&logo=html5&logoColor=white&link=https://faisalahmedbijoy.github.io)](https://khalid-syfullah.github.io)
+
+
+<a href="https://khalidsyfullah.com"><img src="https://img.shields.io/badge/-khalidsyfullah.com?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/Khalid-Syfullah"><img src="https://img.shields.io/badge/-Khalid%20Syfullah-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:khalidsyfullah@gmail.com"><img src="https://img.shields.io/badge/-khalidsyfullah@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://facebook.com/khalidfromplanetearth"><img src="https://img.shields.io/badge/-Khalid%20Syfullah-E4405F?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.leetcode.com/khalid_syfullah"><img src="https://img.shields.io/badge/-khalid-syfullah-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://twitter.com/khalid_syfullah"><img src="https://img.shields.io/badge/-khalid_syfullah-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+### About me :eyes:
+
+- Software Developer | Qubitech Solutions | Rajshahi, Bagladesh
+- :dart: Research Interest | Software Development | Mobile App Development | Deep learning | Image Processing | IoT
+- :e-mail: Ask me about anything ; **khalidsyfullah@gmail.com**
+
+
 
 
 
