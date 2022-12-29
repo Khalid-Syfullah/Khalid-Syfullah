@@ -44,7 +44,7 @@ const khalid = {
   education: {
                         university: "Rajshahi University of Engineering & Technology (RUET)",
                         major: "Electrical & Computer Engineering (ECE)",
-                        academic-session: "2016-17"
+                        batch: "16 series"
                       },
  challenge: "I am focused on mobile app development and deep learning"
 }
