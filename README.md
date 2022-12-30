@@ -82,35 +82,28 @@ const khalid = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-### Languages and Tools : <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+### Stacks I'm currently using : <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 
-[![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android&link=https://github.com/Khalid-Syfullah)](https://github.com/Khalid-Syfullah) 
-[![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase&link=https://github.com/Khalid-Syfullah)](https://github.com/Khalid-Syfullah) 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Dream-kid)](https://github.com/Khalid-Syfullah) 
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Dream-kid)](https://github.com/Khalid-Syfullah) 
+[![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android&link=https://github.com/Khalid-Syfullah)](https://github.com/Khalid-Syfullah) &nbsp;
+[![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase&link=https://github.com/Khalid-Syfullah)](https://github.com/Khalid-Syfullah) &nbsp;
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Dream-kid)](https://github.com/Khalid-Syfullah) &nbsp;
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Dream-kid)](https://github.com/Khalid-Syfullah) &nbsp;
 [![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/Khalid-Syfullah) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Khalid-Syfullah)
-
-
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/Khalid-Syfullah)](https://github.com/Khalid-Syfullah)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&link=https://github.com/Khalid-Syfullah)](https://github.com/Khalid-Syfullah)
-
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/Khalid-Syfullah)](https://github.com/Khalid-Syfullah) 
 [![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/Khalid-Syfullah)](https://github.com/Khalid-Syfullah)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-gray?style=flat&logo=opencv&link=https://github.com/Khalid-Syfullah)](https://github.com/Khalid-Syfullah) 
-
-[![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=arduino&link=https://github.com/Khalid-Syfullah)](https://github.com/Khalid-Syfullah) 
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberrypi-black?style=flat&logo=raspberrypi&link=https://github.com/Khalid-Syfullah)](https://github.com/Khalid-Syfullah)
-
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Khalid-Syfullah)](https://github.com/Khalid-Syfullah)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/Khalid-Syfullah)](https://gitlab.com/Khalid-Syfullah)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Khalid-Syfullah)](https://github.com/Khalid-Syfullah) &nbsp;
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/Khalid-Syfullah)](https://gitlab.com/Khalid-Syfullah) &nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Khalid-Syfullah)](https://github.com/Khalid-Syfullah)
 
 
 
 
- &nbsp;Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+ ###Stacks I am familiar with : <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -146,6 +139,8 @@ const khalid = {
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
+[![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=arduino&link=https://github.com/Khalid-Syfullah)](https://github.com/Khalid-Syfullah) 
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberrypi-black?style=flat&logo=raspberrypi&link=https://github.com/Khalid-Syfullah)](https://github.com/Khalid-Syfullah)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
