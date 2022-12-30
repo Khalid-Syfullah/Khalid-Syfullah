@@ -1,4 +1,19 @@
-<div style="background-color: black">
+
+<style>
+    .div-1 {
+        background-color: #EBEBEB;
+    }
+    
+    .div-2 {
+    	background-color: #ABBAEA;
+    }
+    
+    .div-3 {
+    	background-color: #FBD603;
+    }
+</style>
+<body>
+    <div class="div-1"> I love HTML </div>
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BKhalid-Syfullah%7D/count.svg" alt="visitor badge"/>
 
@@ -177,3 +192,4 @@ Last Updated On: 13/06/2021
 
 ![Profile views](https://gpvc.arturio.dev/Khalid-Syfullah)
 </div>
+</body>
