@@ -1,4 +1,4 @@
-<div style="bgcolor=black">
+<div style="background-color: black">
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BKhalid-Syfullah%7D/count.svg" alt="visitor badge"/>
 
