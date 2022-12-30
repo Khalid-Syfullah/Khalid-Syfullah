@@ -25,7 +25,7 @@
 
 ### About me : <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
-- 💻 Software Developer | Qubitech Solutions | Rajshahi, Bagladesh
+- 💻 Software Developer | Qubitech Solutions | Rajshahi, Bangladesh
 - :dart: Research Interest | Software Development | Mobile App Development | Deep learning | Image Processing | IoT
 - :e-mail: Ask me about anything ; **khalidsyfullah@gmail.com**
 - 👨‍🎓 B.Sc. in Electrical & Computer Engineering from  [Rajshahi University of Engineering & Technology](http://www.ruet.ac.bd)
