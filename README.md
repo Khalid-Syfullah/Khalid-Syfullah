@@ -1,3 +1,4 @@
+<div style="bgcolor=black">
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BKhalid-Syfullah%7D/count.svg" alt="visitor badge"/>
 
@@ -175,3 +176,4 @@ Last Updated On: 13/06/2021
 ----
 
 ![Profile views](https://gpvc.arturio.dev/Khalid-Syfullah)
+</div>
