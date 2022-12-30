@@ -1,19 +1,6 @@
 
-<style>
-    .div-1 {
-        background-color: #EBEBEB;
-    }
-    
-    .div-2 {
-    	background-color: #ABBAEA;
-    }
-    
-    .div-3 {
-    	background-color: #FBD603;
-    }
-</style>
 <body>
-    <div class="div-1"> I love HTML </div>
+    <div>
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BKhalid-Syfullah%7D/count.svg" alt="visitor badge"/>
 
@@ -103,13 +90,13 @@ const khalid = {
 
 [![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android&link=https://github.com/Khalid-Syfullah)](https://github.com/Khalid-Syfullah) &nbsp;
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase&link=https://github.com/Khalid-Syfullah)](https://github.com/Khalid-Syfullah) &nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
-![React-Native](https://img.shields.io/badge/-React-Native-05122A?style=flat&logo=reactnative&logoColor=02569B)&nbsp;
+![React-Native](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=reactnative&logoColor=02569B)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=483D7C)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
