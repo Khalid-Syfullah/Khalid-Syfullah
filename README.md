@@ -39,14 +39,16 @@
 
 ```javascript
 const khalid = {
-  pronouns: "he" | "him",
-  code: [Java, XML, Javascript, Python, C++],
-  tools: [Android, Xcode, React, Redux, Node, Docker],
-  architecture: ["mvvm", "android-sdk", "tensorflow-lite"],
-  education: {
+  Android: [Firebase, Retrofit2, RecyclerView, ConstraintLayout, Jetpack Compose],
+  Python: [Tensorflow, Scikit-Learn, PyTorch, SHAP, LIME, ELI5, Numpy, Pandas, Matplotlib],
+  Node.js: [Express, MySQL, Mongoose, JWT],
+  Languages: [Java, XML, Kotlin, Python, JavaScript, C++],
+  Tools: [Android Studio, Git, Trello, VS Code, Postman, Adobe XD, Figma, TimeCamp],
+  architecture: [MVVM, MVC],
+  education: { 
                         university: "Rajshahi University of Engineering & Technology (RUET)",
                         major: "Electrical & Computer Engineering (ECE)",
-                        batch: "16 series"
+                        academic year: "2016-17"
                       },
  challenge: "I am focused on mobile app development and deep learning"
 }
