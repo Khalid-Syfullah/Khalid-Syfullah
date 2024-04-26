@@ -46,7 +46,7 @@ const khalid = {
   node.js: [Express, Mongoose, JWT],
   databases: [MySQL, MongoDB, SQLite],
   tools: [Android Studio, Git, Trello, VS Code, Postman, Adobe XD, Figma, TimeCamp],
-  architectures: [MVVM, MVC],
+  architectures: [MVVM, MVP],
   education: { 
                         university: "Rajshahi University of Engineering & Technology (RUET)",
                         major: "Electrical & Computer Engineering (ECE)",
