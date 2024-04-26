@@ -39,12 +39,14 @@
 
 ```javascript
 const khalid = {
-  Android: [Firebase, Retrofit2, RecyclerView, ConstraintLayout, Jetpack Compose],
-  Python: [Tensorflow, Scikit-Learn, PyTorch, SHAP, LIME, ELI5, Numpy, Pandas, Matplotlib],
-  Node.js: [Express, MySQL, Mongoose, JWT],
-  Languages: [Java, XML, Kotlin, Python, JavaScript, C++],
-  Tools: [Android Studio, Git, Trello, VS Code, Postman, Adobe XD, Figma, TimeCamp],
-  architecture: [MVVM, MVC],
+  languages: [Java, XML, Kotlin, Python, JavaScript, C++],
+  frameworks: [Android, ML/DL, Back-end],
+  android: [Firebase, Retrofit2, RecyclerView, ConstraintLayout, Jetpack Compose],
+  python: [Tensorflow, Scikit-Learn, PyTorch, SHAP, LIME, ELI5, Numpy, Pandas, Matplotlib],
+  node.js: [Express, Mongoose, JWT],
+  databases: [MySQL, MongoDB, SQLite],
+  tools: [Android Studio, Git, Trello, VS Code, Postman, Adobe XD, Figma, TimeCamp],
+  architectures: [MVVM, MVC],
   education: { 
                         university: "Rajshahi University of Engineering & Technology (RUET)",
                         major: "Electrical & Computer Engineering (ECE)",
