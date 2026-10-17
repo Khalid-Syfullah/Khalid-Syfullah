@@ -1,188 +1,52 @@
-
-<body>
-    <div>
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BKhalid-Syfullah%7D/count.svg" alt="visitor badge"/>
+<h1 align="center">Hi, I'm Khalid Syfullah 👋</h1>
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <img width="25%" height="25%" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif">
-
- </p>
-
-<h1 align="center">Hi, I'm Khalid Syfullah<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<p align="center">
-  <a href="https://github.com/Khalid-Syfullah"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+GitHub+Profile;I+am+Khalid!"></a>
- </p>
- 
-<p align="center">
-<a href="https://khalidsyfullah.com"><img src="https://img.shields.io/badge/-khalidsyfullah-003399?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
- <a href="https://facebook.com/khalidfromplanetearth"><img src="https://img.shields.io/badge/-Khalid%20Syfullah-E4405F?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://linkedin.com/in/Khalid-Syfullah"><img src="https://img.shields.io/badge/-Khalid%20Syfullah-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/khalid_syfullah"><img src="https://img.shields.io/badge/-khalid_syfullah-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="mailto:khalidsyfullah@gmail.com"><img src="https://img.shields.io/badge/-khalidsyfullah@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.leetcode.com/khalid_syfullah"><img src="https://img.shields.io/badge/-Khalid%20Syfullah-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/khalid_1610038"><img src="https://img.shields.io/badge/-Khalid%20Syfullah-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  
-</p>
-
-### About me : <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-
-- 💻 Software Developer | Qubitech Solutions | Rajshahi, Bangladesh
-- :dart: Research Interest | Software Development | Mobile App Development | Deep learning | Image Processing | IoT
-- :e-mail: Ask me about anything ; **khalidsyfullah@gmail.com**
-- 👨‍🎓 B.Sc. in Electrical & Computer Engineering from  [Rajshahi University of Engineering & Technology](http://www.ruet.ac.bd)
-
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const khalid = {
-  languages: [Java, XML, Kotlin, Python, JavaScript, C++],
-  frameworks: [Android, ML/DL, Back-end],
-  android: [Firebase, Retrofit2, RecyclerView, ConstraintLayout, Jetpack Compose],
-  python: [Tensorflow, Scikit-Learn, PyTorch, SHAP, LIME, ELI5, Numpy, Pandas, Matplotlib],
-  node.js: [Express, Mongoose, JWT],
-  databases: [MySQL, MongoDB, SQLite],
-  tools: [Android Studio, Git, Trello, VS Code, Postman, Adobe XD, Figma, TimeCamp],
-  architectures: [MVVM, MVP],
-  education: { 
-                        university: "Rajshahi University of Engineering & Technology (RUET)",
-                        major: "Electrical & Computer Engineering (ECE)",
-                        academic year: "2016-17"
-                      },
- challenge: "I am focused on mobile app development and deep learning"
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-##Trophies <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=khalid-syfullah&theme=dracula&column=7" alt="GitHub Trophies" />
- </p>
-
-## My Stats <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khalid-Syfullah&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400">
-  </p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Khalid-Syfullah&theme=chartreuse-dark">
- </p>
-
-## Most Used Languages <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Syfullah&layout=compact&hide=TSQL&theme=chartreuse-dark">
+  Software engineer from Rajshahi, Bangladesh. I build across the stack, from a bare-metal x86 kernel<br>
+  to Android apps and full-stack web platforms that I deploy and run myself on AWS.
 </p>
 
 <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khalid-syfullah&theme=gruvbox">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khalid-syfullah&theme=gruvbox">
- </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-### Currently Used Stacks : <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-
-
-[![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android&link=https://github.com/Khalid-Syfullah)](https://github.com/Khalid-Syfullah) &nbsp;
-[![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase&link=https://github.com/Khalid-Syfullah)](https://github.com/Khalid-Syfullah) &nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)
-        
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8)
-        
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
-![React-Native](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=reactnative&logoColor=02569B)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=483D7C)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
-
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=4479A1)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
-![Raspberry Pi](https://img.shields.io/badge/-Raspberrypi-black?style=flat&logo=raspberrypi)&nbsp;
-![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
-        
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-
-### Other Used Stacks : <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=4479A1)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
-![Raspberry Pi](https://img.shields.io/badge/-Raspberrypi-black?style=flat&logo=raspberrypi)&nbsp;
-![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-### :link: &nbsp;Connect with me <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-
-
-<p align="center">
-<a href="https://khalidsyfullah.com"><img src="https://img.shields.io/badge/-khalidsyfullah-003399?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
- <a href="https://facebook.com/khalidfromplanetearth"><img src="https://img.shields.io/badge/-Khalid%20Syfullah-E4405F?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://linkedin.com/in/Khalid-Syfullah"><img src="https://img.shields.io/badge/-Khalid%20Syfullah-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/khalid_syfullah"><img src="https://img.shields.io/badge/-khalid_syfullah-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="mailto:khalidsyfullah@gmail.com"><img src="https://img.shields.io/badge/-khalidsyfullah@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.leetcode.com/khalid_syfullah"><img src="https://img.shields.io/badge/-Khalid%20Syfullah-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/khalid_1610038"><img src="https://img.shields.io/badge/-Khalid%20Syfullah-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://khalidsyfullah.com"><img src="https://img.shields.io/badge/khalidsyfullah.com-0B6E4F?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://linkedin.com/in/Khalid-Syfullah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:khalidsyfullah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://twitter.com/khalid_syfullah"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://leetcode.com/khalid_syfullah"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://www.hackerrank.com/khalid_1610038"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
 </p>
 
+## What I work on
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"><br><br>
+- **Systems:** low-level C and x86 assembly. I wrote a kernel from scratch with paging, interrupts, a heap and a shell.
+- **Full-stack web:** TypeScript and Java back ends (NestJS, Spring Boot) with React and Next.js front ends on PostgreSQL.
+- **Mobile and desktop:** native Android apps in Java and Kotlin, and a macOS app with Tauri and Rust.
+- **Cloud and DevOps:** AWS EC2, GitHub Actions pipelines that test, deploy and roll back on their own, nginx and pm2.
+- **Machine learning:** TensorFlow and TensorFlow Lite models that run on the phone.
 
-Credit: [Khalid Syfullah](https://github.com/Khalid-Syfullah)
+## Featured projects
 
-Last Updated On: 13/06/2021
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [**Tuktak Bazaar**](https://github.com/Khalid-Syfullah/tuktak-bazaar) | An online store for Bangladesh with flash sales, vouchers, coins, photo reviews, cash on delivery with risk scoring, bKash and Nagad payments, Bangla and Banglish search, and a full admin panel. Every merge to `main` is tested and deployed to AWS. | Next.js, NestJS, PostgreSQL, GitHub Actions, AWS |
+| [**ERP System**](https://github.com/Khalid-Syfullah/erp-system) | A Bangla-first ERP covering inventory, sales, accounting, HR, payroll and reporting. | Spring Boot, React, PostgreSQL |
+| [**corekernel**](https://github.com/Khalid-Syfullah/corekernel) | A bare-metal x86 kernel written from scratch: GDT, IDT, ISR/IRQ, paging, physical memory manager, heap, VGA, keyboard, timer, serial and an interactive shell. | C, x86 assembly |
+| [**macOS Voice Recorder**](https://github.com/Khalid-Syfullah/macos-voice-recorder) | A native macOS recorder with pause and resume and a seekable waveform. Recordings stay on the machine. Work in progress. | Tauri 2, Rust, React, TypeScript |
+| [**Plasma+**](https://github.com/Khalid-Syfullah/PlasmaPlus) | Connects blood and plasma donors with patients across Bangladesh, with phone verification and eligibility checks. | Android (Java), Firebase |
+| [**Boimela**](https://github.com/Khalid-Syfullah/Boimela) | A cross-platform e-book app with EPUB 3 reading, OAuth 2.0 sign-in and personalised content. | Java, MVVM |
+| [**CXR17**](https://github.com/Khalid-Syfullah/CXR17_DenseParallel_ELM) | An Android app that detects 17 types of lung disease, running the model on the phone. | TensorFlow Lite, Android |
+| [**VFloors360**](https://github.com/Khalid-Syfullah/VFloors360-Server) | A tile and room visualiser made up of a REST API, a client app and an admin panel. | Node.js, Express |
 
-----
+## Tech I use
 
-![Profile views](https://gpvc.arturio.dev/Khalid-Syfullah)
-</div>
-</body>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,ts,js,py,rust,linux,bash&perline=10" alt="Languages: C, C++, Java, Kotlin, TypeScript, JavaScript, Python, Rust; Linux, Bash"><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,spring,angular,tailwind,prisma,postgres,mongodb&perline=10" alt="Web: React, Next.js, NestJS, Node.js, Spring Boot, Angular, Tailwind CSS, Prisma, PostgreSQL, MongoDB"><br>
+  <img src="https://skillicons.dev/icons?i=androidstudio,tauri,tensorflow,opencv,aws,githubactions,nginx,docker,git,latex&perline=10" alt="Android, Tauri, TensorFlow, OpenCV, AWS, GitHub Actions, nginx, Docker, Git, LaTeX">
+</p>
+
+## Education
+
+B.Sc. in Electrical & Computer Engineering, [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd)
+
+---
+
+<p align="center">Open to interesting problems and good conversations. The fastest way to reach me is <a href="mailto:khalidsyfullah@gmail.com">email</a>.</p>
